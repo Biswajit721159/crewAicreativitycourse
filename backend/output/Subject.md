@@ -1,0 +1,1 @@
+["Mathematics", "Science", "Social Science", "English", "Hindi", "Sanskrit", "Information Technology"]
